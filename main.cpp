@@ -7,5 +7,6 @@ int main(void){
 	cout << "b=";
 	cin >> b
 	cout << addition(a,b)}
+	//New comment
 	return;
 }
